@@ -76,8 +76,8 @@
     <TargetName>cheat</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <OutDir>.\\dbuild</OutDir>
-    <IntDir>.\\dtrash</IntDir>
+    <OutDir>.\dbuild\</OutDir>
+    <IntDir>.\dtrash\</IntDir>
     <TargetName>dcheat</TargetName>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
