@@ -4,6 +4,7 @@ A simple External Cheat for Counter-Strike 1.6 written in C++
 
 ## Compatible with
 
+- GoldClient (20:10:31 May  7 2025 (10422))
 - NextClient (2.40)
 - GSClient (Build: 06:51:36 May 10 2026 (10790))
 - 8684, 4554 and 3266 Build's
